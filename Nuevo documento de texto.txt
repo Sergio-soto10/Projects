@@ -1,0 +1,17 @@
+<html>
+<title></title>
+<body bgcolor="blue">
+<center>
+
+<td width="450" aling="center"><img src="bienvenidos.png" height="150"></td>
+
+<table>
+<td><button><h3>Ingresar</h3></button></td>
+<td><button>Registrarse</button></td>
+</table>
+
+<h3 style="color:red">Los programadores estan encargados de crear lo que las personas sueñan</h3>
+
+</center>
+</body>
+</html>
